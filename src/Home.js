@@ -23,6 +23,8 @@ const Home = () => (
       <img alt="" src={HomeHeader} />
     </div>
 
+    <br />
+
     <p style={{ textAlign: 'center' }}>
       Practicamos <strong>Karate-Do Kobayashi-Ryu Kyudokan</strong> creado por{' '}
       <strong>O'Sensei Yuchoku Higa</strong> - 10mo Dan -. Actualmente nuestro

@@ -5,28 +5,28 @@ const MainMenu = () => (
   <nav>
     <ul id="menu">
       <li>
-        <Link to="/Home">HOME</Link>{' '}
+        <Link to="/Home">HOME</Link>
       </li>
       <li>
-        <Link to="/Karatedo">KARATE-DO TRADICIONAL</Link>{' '}
+        <Link to="/Karatedo">KARATE-DO TRADICIONAL</Link>
       </li>
       <li>
-        <Link to="/Dojo">DOJO</Link>{' '}
+        <Link to="/Dojo">DOJO</Link>
       </li>
       <li>
-        <Link to="/KaratedoAndTheKids">KARATE Y EL NIÑO</Link>{' '}
+        <Link to="/KaratedoAndTheKids">KARATE Y EL NIÑO</Link>
       </li>
       <li>
-        <Link to="/KaratedoAndTheWomen">KARATE-DO Y LA MUJER</Link>{' '}
+        <Link to="/KaratedoAndTheWomen">KARATE-DO Y LA MUJER</Link>
+      </li>
+      {/* <li>
+        <Link to="/Gallery">FOTOS</Link>
       </li>
       <li>
-        <Link to="/Gallery">FOTOS</Link>{' '}
-      </li>
+        <Link to="/News">NOVEDADES</Link>
+      </li> */}
       <li>
-        <Link to="/News">NOVEDADES</Link>{' '}
-      </li>
-      <li>
-        <Link to="/Contact">CONTACTO</Link>{' '}
+        <Link to="/Contact">CONTACTO</Link>
       </li>
     </ul>
   </nav>

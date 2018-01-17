@@ -2,14 +2,16 @@ import React from 'react';
 
 import KaratedoHeader from './images/headers/KaratedoHeader.png';
 import MinoruSikoDachi from './images/karatedo/MinoruSikoDachi.jpg';
-import YuchokuHigaEntrenando from './images/karatedo/YuchokuHigaEntrenando.png';
-import YuchokuHigaSicoDachi from './images/karatedo/YuchokuHigaSicoDachi.png';
+import YuchokuHigaEntrenando from './images/karatedo/YuchokuHigaEntrenando.jpg';
+import YuchokuHigaSicoDachi from './images/karatedo/YuchokuHigaSicoDachi.jpg';
 
-const K = () => (
+const Karatedo = () => (
   <div>
     <div id="pageImageHeader">
       <img alt="" src={KaratedoHeader} />
     </div>
+
+    <br />
 
     <p style={{ textAlign: 'center' }}>
       El <strong> Karate - Do </strong> es el <strong>Arte Marcial</strong> que
@@ -56,8 +58,7 @@ const K = () => (
         <br />
 
         <span className="ImageLabel">
-          {' '}
-          Sensei Higa Minoru - 10 mo Dan Hanshi -{' '}
+          Sensei Higa Minoru - 10 mo Dan Hanshi -
         </span>
       </div>
 
@@ -73,6 +74,8 @@ const K = () => (
         para un mejor carácter y una correcta actitud.
       </div>
     </div>
+
+    <br />
 
     <p style={{ textAlign: 'center' }}>
       El ejercicio de estas pautas nos llevan de un modo directo al{' '}
@@ -119,11 +122,12 @@ const K = () => (
 
     <div style={{ textAlign: 'center' }}>
       <span className="ImageLabel">
-        {' '}
         O 'Sensei Higa Yuchoku - 10mo Dan Hanshi - creador del Kobayashi-Ryu
         Kyudokan
       </span>
     </div>
+
+    <br />
 
     <p style={{ textAlign: 'center' }}>
       O 'Sensei Higa Yuchoku decía: Cuando yo era joven solía pensar, el ataque
