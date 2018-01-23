@@ -57,12 +57,12 @@ const Home = () => (
         <Carousel.Item>
           <img alt="" src={SeminarioMinoruHiga2010_15} />
         </Carousel.Item>
-        <Carousel.Item>
+        {/* <Carousel.Item>
           <img alt="" src={Campamento2010_07} />
-        </Carousel.Item>
-        <Carousel.Item>
+        </Carousel.Item> */}
+        {/* <Carousel.Item>
           <img alt="" src={Home01} />
-        </Carousel.Item>
+        </Carousel.Item> */}
         <Carousel.Item>
           <img alt="" src={Home02} />
         </Carousel.Item>
@@ -72,9 +72,9 @@ const Home = () => (
         <Carousel.Item>
           <img alt="" src={Home04} />
         </Carousel.Item>
-        <Carousel.Item>
+        {/* <Carousel.Item>
           <img alt="" src={Home05} />
-        </Carousel.Item>
+        </Carousel.Item> */}
         <Carousel.Item>
           <img alt="" src={Home06} />
         </Carousel.Item>

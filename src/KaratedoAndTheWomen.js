@@ -22,11 +22,11 @@ const KaratedoAndTheWomen = () => (
       <tr>
         <td colspan="2">
           <p style={{ marginRight: 10, marginLeft: 10 }}>
-            Esto es totalmente erróneo. En la cultura Oriental y la propia de
-            Japón, existe algo llamado "Yin-Yan" esto se interpreta como "La ley
-            de los opuestos que coexisten y se complementan entre sí", esta es
-            una ley natural con la cual convivimos toda nuestra vida: el día y
-            la noche, lo dulce y lo amargo algunos son algunos ejemplos de esto.
+            Esto es totalmente erróneo. Existe algo llamado "Yin-Yang" esto se
+            interpreta como "La ley de los opuestos que coexisten y se
+            complementan entre sí", esta es una ley natural con la cual
+            convivimos toda nuestra vida: el día y la noche, lo dulce y lo
+            amargo son algunos ejemplos de esto.
           </p>
           <p style={{ marginRight: 10, marginLeft: 10 }}>
             El Karate-Do fue concebido respetando "las leyes naturales", por lo
@@ -58,10 +58,10 @@ const KaratedoAndTheWomen = () => (
             La mujer que practica Karate-Do desarrolla, entre muchas otras
             cosas, una mayor fuerza física sin que signifique perder los
             atributos naturales femeninos, por el contrario los potencia, como
-            la delicadeza o hasta la misma y famosa intuición femenina.
+            la delicadeza.
           </p>
           <p style={{ marginRight: 10, marginLeft: 10 }}>
-            Volviendo un poco atrás el hombre y la mujer son "Yin-Yan"
+            Volviendo un poco atrás el hombre y la mujer son "Yin-Yang"
             básicamente opuestos pero a su vez se necesitan el uno al otro, los
             dos pueden equilibrarse entre si, practicando Karate-Do y así lograr
             armonía.

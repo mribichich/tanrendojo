@@ -14,7 +14,7 @@ const Karatedo = () => (
     <br />
 
     <p style={{ textAlign: 'center' }}>
-      El <strong> Karate - Do </strong> es el <strong>Arte Marcial</strong> que
+      El <strong> Karate-Do </strong> es el <strong>Arte Marcial</strong> que
       tuvo su origen en <strong> Okinawa </strong>, una pequeña isla situada al
       sur de Japón.La filosofía de este arte está basada en los preceptos que
       dieron lugar a la creación del BUSHIDO, el{' '}
@@ -31,11 +31,12 @@ const Karatedo = () => (
           width: '40%'
         }}
       >
-        Estos preceptos pueden resumir en: <br /> •Rectitud de Pensamiento y de
-        Acción. <br /> •Valor y Audacia para afrontar situaciones adversas.{' '}
-        <br /> •Tolerancia ante los defectos de lo demás y los propios. <br />{' '}
-        •Humildad. <br /> •Lealtad. <br /> •Autodominio. <br /> •Control. <br />{' '}
-        •Generosidad. <br /> •Ética y compromiso con sus obligaciones.
+        Estos preceptos pueden resumir en: <br /> • Rectitud de Pensamiento y de
+        Acción. <br /> • Valor <br /> • Audacia para afrontar adversidades.{' '}
+        <br /> • Tolerancia ante los defectos de lo demás y los propios. <br />{' '}
+        • Humildad. <br /> • Lealtad. <br /> • Autodominio. <br /> • Control.{' '}
+        <br /> • Generosidad. <br /> • Ética <br /> • Responsabilidad y
+        compromiso con sus obligaciones.
       </div>
 
       <div
@@ -70,8 +71,8 @@ const Karatedo = () => (
         Total. <br /> •La preparación del Físico más allá del cansancio y el
         dolor. <br /> •El desarrollo de la Técnica a través de la Habilidad, la
         Destreza y la Constancia. <br /> •El ejercicio de la Paciencia. <br />{' '}
-        •La preparación de la Mente y el Espíritu.•La amabilidad, como valor
-        para un mejor carácter y una correcta actitud.
+        •La preparación de la Mente y el Espíritu.<br /> •La amabilidad, como
+        valor para un mejor carácter y una correcta actitud.
       </div>
     </div>
 
@@ -79,23 +80,24 @@ const Karatedo = () => (
 
     <p style={{ textAlign: 'center' }}>
       El ejercicio de estas pautas nos llevan de un modo directo al{' '}
-      <strong> "Conócete a ti mismo" </strong>, permitiéndonos llegar a la
-      instancia final del combate: <strong> "Vencerse a uno mismo" </strong>
+      <strong> "Conócete a ti mismo"</strong>, permitiéndonos llegar a la
+      instancia <br />
+      final del combate: <strong> "Vencerse a uno mismo" </strong>
       . <br />
-      En esto último, está la real fortaleza del Karate - Ka, quien practicando
-      un <strong> Arte Tradicional </strong>, con pautas dirigidas hacia el
+      En esto último, está la real fortaleza del Karate-Ka, quien practicando un{' '}
+      <strong> Arte Tradicional</strong>, con pautas dirigidas hacia el
       crecimiento del ser humano, muchas veces encuentra obstaculizado su
       desarrollo por el entorno y las circunstancias que lo rodean y ahí, es
       donde debe <strong> aflorar su temple </strong> para constantemente
-      modelarse dentro del Camino.
+      modelarse dentro del DO, del Camino.
     </p>
 
     <p style={{ textAlign: 'center' }}>
       Por todo esto - aunque muchos tengan una idea tergiversada - el
-      prácticante de Karate - Do pone en manifiesto y entrena el sentido de la{' '}
+      prácticante de Karate-Do pone en manifiesto y entrena el sentido de <br />la{' '}
       <strong> no violencia </strong>, siendo este uno de los requisitos
-      imprescindibles para su crecimiento y su práctica cotidiana es el camino
-      directo que conduce a su esencia, forjando en su trayecto una mente
+      imprescindibles para su crecimiento y su práctica cotidiana. <br />Es el
+      camino directo que conduce a su esencia, forjando en su trayecto una mente
       limpia, un cuerpo sano y un espíritu perseverante.
     </p>
 

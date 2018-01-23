@@ -14,16 +14,14 @@ const KaratedoAndTheKids = () => (
     <br />
 
     <p style={{ textAlign: 'center' }}>
-      Aún hoy en día algunas personas suponen que la práctica del Karate-Do
-      tanto en niños como en adultos no provoca ni incita en ellos violencia
-      alguna.
+      Aún hoy en día algunas personas suponen que la práctica del Karate-Do,
+      tanto en niños como en adultos, provoca e incita en ellos violencia.
       <br />
-      Esto es así ya que el niño aprende desde sus primeras clases a controlar
-      su faz agresiva y a mejorar su aspecto técnico muscular, de esta forma las
-      clases se desarrollan en un marco de sano compañerismo y respeto mutuo. Se
-      ha comprobado a través de estudios psico-sociológicos, que la práctica de
-      esta disciplina actúa en el niño como un eficaz y natural método de
-      afianzar una sana personalidad.
+      Esto definitivamente no es así. El niño aprende desde sus primeras clases
+      a controlar su faz agresiva y a mejorar su aspecto técnico muscular, de
+      esta forma las clases se desarrollan en un marco de sano compañerismo y
+      respeto mutuo. La práctica de esta disciplina actúa en el niño como un
+      eficaz y natural método de afianzar una sana personalidad.
     </p>
 
     <div>
@@ -44,23 +42,23 @@ const KaratedoAndTheKids = () => (
         }}
       >
         <p style={{ textAlign: 'center' }}>
-          En síntesis, el Karate-Do le brindará al niño:<br />
+          El Karate-Do le brindará al niño:<br />
           <br />
-          • Un efectivo sistema de defensa personal •<br />
-          • Coordinación psicomotriz •<br />
           • Destreza •<br />
-          • Reflejos y Capacidad de Reacción •<br />
-          • Descarga Energética •<br />
-          • Desinhibición •<br />
-          • Concentración •<br />
           • Disciplina •<br />
-          • Acondicionamiento Físico •<br />
-          • Desarrollo Intuitivo •<br />
-          • Dominio de sí mismo •<br />
-          • Fuerza de Voluntad •<br />
-          • Humildad y Tolerancia •<br />
           • Recreación •<br />
-          • Responsabilidad •
+          • Desinhibición •<br />
+          • Responsabilidad •<br />
+          • Concentración •<br />
+          • Desarrollo Intuitivo •<br />
+          • Fuerza de Voluntad •<br />
+          • Dominio de sí mismo •<br />
+          • Descarga Energética •<br />
+          • Humildad y Tolerancia •<br />
+          • Coordinación Psicomotriz •<br />
+          • Acondicionamiento Físico •<br />
+          • Reflejos y Capacidad de Reacción •<br />
+          • Un efectivo sistema de defensa personal •
         </p>
       </div>
 
@@ -72,15 +70,15 @@ const KaratedoAndTheKids = () => (
     <p style={{ textAlign: 'center' }}>
       La disciplina es uno de los aspectos más importantes del Karate-Do porque
       sin ella no hay objetivo que pueda complementarse como corresponde, dado
-      que ésta hace que el instructor imparta su clase en orden, que todos
+      que esta hace que el instructor imparta su clase en orden, que todos
       comprendan sus enseñanzas, que exista el respeto mutuo y la observación de
       todas las reglas de comportamiento y que el grupo se sienta parte de la
       unidad.
     </p>
     <p style={{ textAlign: 'center' }}>
       Poniendo como máxima principal el sentido de camaradería y respeto por sus
-      compañeros, su Sensei y por extensión, a sus semejantes y hacia la
-      sociedad en su totalidad.
+      compañeros, su Sensei y por extensión, a sus semejantes <br />
+      y hacia la sociedad en su totalidad.
     </p>
 
     <p style={{ textAlign: 'center' }}>

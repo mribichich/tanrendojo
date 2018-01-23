@@ -27,7 +27,7 @@ const Footer = ({ isAuthenticated }) => (
         <img alt="" src={facebook2} />
       </div>
       <div className="footerTextCell">
-        <a href="http://www.facebook.com/TanrenDojo">TanrenDojo</a>
+        <a href="https://www.facebook.com/vilotanrendojo/">TanrenDojo</a>
       </div>
       <div className="footerImgCell">
         <img alt="" src={instagram} />
