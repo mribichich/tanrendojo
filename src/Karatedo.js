@@ -1,7 +1,8 @@
 import React from 'react';
 
 import KaratedoHeader from './images/headers/KaratedoHeader.png';
-import MinoruSikoDachi from './images/karatedo/MinoruSikoDachi.jpg';
+// import MinoruSikoDachi from './images/karatedo/MinoruSikoDachi.jpg';
+import Minoru from './images/karatedo/Minoru.jpg';
 import YuchokuHigaEntrenando from './images/karatedo/YuchokuHigaEntrenando.jpg';
 import YuchokuHigaSicoDachi from './images/karatedo/YuchokuHigaSicoDachi.jpg';
 
@@ -47,7 +48,8 @@ const Karatedo = () => (
         }}
       >
         <img
-          src={MinoruSikoDachi}
+          // src={MinoruSikoDachi}
+          src={Minoru}
           className="Loading"
           style={{
             height: '330px',
@@ -67,11 +69,11 @@ const Karatedo = () => (
         style={{ display: 'table-cell', verticalAlign: 'middle', width: '40%' }}
       >
         Para que el Practicante pueda alcanzar la plenitud de estos valores,
-        basa su aprendizaje en los siguientes puntos: <br /> •La Sinceridad
-        Total. <br /> •La preparación del Físico más allá del cansancio y el
-        dolor. <br /> •El desarrollo de la Técnica a través de la Habilidad, la
-        Destreza y la Constancia. <br /> •El ejercicio de la Paciencia. <br />{' '}
-        •La preparación de la Mente y el Espíritu.<br /> •La amabilidad, como
+        basa su aprendizaje en los siguientes puntos: <br /> • La Sinceridad
+        Total. <br /> • La preparación del Físico más allá del cansancio y el
+        dolor. <br /> • El desarrollo de la Técnica a través de la Habilidad, la
+        Destreza y la Constancia. <br /> • El ejercicio de la Paciencia. <br />{' '}
+        • La preparación de la Mente y el Espíritu.<br /> • La amabilidad, como
         valor para un mejor carácter y una correcta actitud.
       </div>
     </div>

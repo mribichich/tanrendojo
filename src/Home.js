@@ -17,6 +17,11 @@ import Home07 from './images/home/Home07.jpg';
 import Home08 from './images/home/Home08.jpg';
 import Home09 from './images/home/Home09.jpg';
 
+import IMG_4881_2 from './images/home/IMG_4881_2.jpg';
+import IMG_5765_2 from './images/home/IMG_5765_2.jpg';
+import IMG_20171016_WA0011_2 from './images/home/IMG_20171016_WA0011_2.jpg';
+import P1015426_2 from './images/home/P1015426_2.jpg';
+
 const Home = () => (
   <div>
     <div id="pageImageHeader">
@@ -86,6 +91,18 @@ const Home = () => (
         </Carousel.Item>
         <Carousel.Item>
           <img alt="" src={Home09} />
+        </Carousel.Item>
+        <Carousel.Item>
+          <img alt="" src={IMG_4881_2} />
+        </Carousel.Item>
+        <Carousel.Item>
+          <img alt="" src={IMG_5765_2} />
+        </Carousel.Item>
+        <Carousel.Item>
+          <img alt="" src={IMG_20171016_WA0011_2} />
+        </Carousel.Item>
+        <Carousel.Item>
+          <img alt="" src={P1015426_2} />
         </Carousel.Item>
       </Carousel>
     </div>
